@@ -1,0 +1,8 @@
+{
+  "name": "Remix Remix RetailAI - Customer Support Agent",
+  "description": "Beginner-friendly AI customer-support agent and retailer supervisor dashboard with strict policy enforcement, mock refunds, and escalation workflows.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
